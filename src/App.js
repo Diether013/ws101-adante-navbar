@@ -9,8 +9,8 @@ import './App.css';
 // import IfCondition from './components/IfConditions';
 //import Biodata from './components/Biodata/biodata';
 //import TodoList from './components/todolist/todolist';
-//import todolist from './components/todolist/todolist';
-import Navbar from './navbar/navbar';
+//import Navbar from './navbar/navbar';
+import LandingPage from './components/Convert landing/convert';
 function App() {
     return (
         <div className="App">
@@ -21,9 +21,10 @@ function App() {
         <Footer />
         <HandlingFunction />
         <HandlingClass />
-        <IfCondition /> 
-        <TodoList />*/}
-        <Navbar />
+        <IfCondition />
+        <TodoList />
+        <Navbar />*/}
+        <LandingPage />
     </div>
     
     );
