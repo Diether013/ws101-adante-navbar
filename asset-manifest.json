@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ws101-adante-navbar/static/css/main.946fbf6d.css",
-    "main.js": "/ws101-adante-navbar/static/js/main.6cc18416.js",
-    "index.html": "/ws101-adante-navbar/index.html",
-    "main.946fbf6d.css.map": "/ws101-adante-navbar/static/css/main.946fbf6d.css.map",
-    "main.6cc18416.js.map": "/ws101-adante-navbar/static/js/main.6cc18416.js.map"
+    "main.css": "/ws101_react_landing/static/css/main.68971893.css",
+    "main.js": "/ws101_react_landing/static/js/main.17ac5eb0.js",
+    "index.html": "/ws101_react_landing/index.html",
+    "main.68971893.css.map": "/ws101_react_landing/static/css/main.68971893.css.map",
+    "main.17ac5eb0.js.map": "/ws101_react_landing/static/js/main.17ac5eb0.js.map"
   },
   "entrypoints": [
-    "static/css/main.946fbf6d.css",
-    "static/js/main.6cc18416.js"
+    "static/css/main.68971893.css",
+    "static/js/main.17ac5eb0.js"
   ]
 }
